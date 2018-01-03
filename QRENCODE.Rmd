@@ -1,0 +1,49 @@
+---
+title: "Febrile Illness Etiology in a Broad Range of Epidemiology (FIEBRE)"
+author: "Consent Form [English version]"
+date: "V.0.1.00"
+output:
+  pdf_document: default
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+id<-read.table("id.txt",header = F)
+```
+ 
+Before you decide whether to take part it is important for you to understand why the research is being done and what the study involves. If something is not clear or you would like more information, please ask  
+
+###What is fever?  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+###What is the study about?  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \newline 
+
+###Whose help do we need?  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+###What does the study involve?  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+###Who is doing this research?  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+##THIS STUDY IS COMPLETELY CONFIDENTIAL: WE WILL NOT GIVE ANYONE ELSE ACCESS TO YOUR INFORMATION.  
+
+
+
+#Subject
+
+1.    I confirm that I have read, or had the information sheet for the FIEBRE study read to me and I fully understand it. I have had the chance to ask questions and they have been answered fully.        ![](square.gif)  
+\newline
+2.    I understand that participation is voluntary and I am free to withdraw at any time without giving reason without my medical care being affected.           ![](square.gif)  
+\newline
+3.    I agree to take part in the FIEBRE study.        ![](square.gif)  
+\newline
+This is the ID : `r id`
+
+\includegraphics[width=3\textwidth]{barcode.png}
+
+
